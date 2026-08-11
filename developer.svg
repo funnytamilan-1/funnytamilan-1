@@ -1,0 +1,131 @@
+<svg width="500" height="180" viewBox="0 0 500 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Premium Gradient -->
+    <linearGradient id="premium" x1="0" y1="0" x2="500" y2="180">
+      <stop offset="0%" stop-color="#7A5CFA"/>
+      <stop offset="45%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#FF4ECD"/>
+    </linearGradient>
+
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="500" y2="180">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Shadow -->
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="5" stdDeviation="8"
+                    flood-color="#000000"
+                    flood-opacity="0.5"/>
+    </filter>
+
+  </defs>
+
+  <!-- Main Card -->
+  <rect x="5" y="5"
+        width="490"
+        height="170"
+        rx="30"
+        fill="url(#bg)"
+        stroke="url(#premium)"
+        stroke-width="3"
+        filter="url(#shadow)"/>
+
+  <!-- Developer Icon Box -->
+  <rect x="30" y="35"
+        width="110"
+        height="110"
+        rx="25"
+        fill="#080B10"
+        stroke="url(#premium)"
+        stroke-width="3"/>
+
+  <!-- Left Code Bracket -->
+  <path d="M72 62 L50 90 L72 118"
+        stroke="url(#premium)"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        filter="url(#glow)"/>
+
+  <!-- Right Code Bracket -->
+  <path d="M98 62 L120 90 L98 118"
+        stroke="url(#premium)"
+        stroke-width="8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        filter="url(#glow)"/>
+
+  <!-- Slash -->
+  <path d="M91 55 L78 125"
+        stroke="white"
+        stroke-width="7"
+        stroke-linecap="round"/>
+
+  <!-- Small AI Badge -->
+  <circle cx="130" cy="42"
+          r="15"
+          fill="#0D1117"
+          stroke="#00D4FF"
+          stroke-width="2"/>
+
+  <text x="130"
+        y="47"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="10"
+        font-weight="bold"
+        fill="#00D4FF">
+    AI
+  </text>
+
+  <!-- Name -->
+  <text x="170"
+        y="78"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="38"
+        font-weight="800"
+        letter-spacing="3"
+        fill="white">
+    AJMAL
+  </text>
+
+  <!-- Developer -->
+  <text x="173"
+        y="108"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        font-weight="bold"
+        letter-spacing="6"
+        fill="url(#premium)">
+    DEVELOPER
+  </text>
+
+  <!-- Tagline -->
+  <text x="173"
+        y="135"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="11"
+        letter-spacing="2"
+        fill="#8B949E">
+    CODE • AI • DEVOPS • CLOUD
+  </text>
+
+  <!-- Decorative Dots -->
+  <circle cx="445" cy="38" r="4" fill="#7A5CFA"/>
+  <circle cx="460" cy="38" r="4" fill="#00D4FF"/>
+  <circle cx="475" cy="38" r="4" fill="#FF4ECD"/>
+
+</svg>
