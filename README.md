@@ -1,4 +1,7 @@
-<div align="center">👋 Hi, I'm Mohammad Ajmal
+
+
+<div align="center"><p>👋𝗛ᴇʏ, 𝗜ᴍ 𝗠ᴏʜᴀᴍᴍᴇᴅ 𝗔ᴊᴀᴍʟ</p>
+
 
 🚀 𝗗ᴇᴠᴇʟᴏᴩᴇʀ • 🤖𝗔𝗜|𝗠𝗟 𝗟ᴇʀɴɪɴɢ • 🐍 𝗣ʏᴛʜᴏɴ 𝗗ᴇᴠᴇʟᴏᴩᴇʀ • ☁️ 𝗗ᴇᴠᴏᴩꜱ 𝗘ɴᴛʜᴜꜱɪᴀꜱᴛ
 
@@ -10,15 +13,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient" width="100%" alt="Header"></div>---
 
-🧑‍💻 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+<h1>🧑‍💻 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
-💡 "I don't just want to use technology — I want to understand how it works, build with it, and continuously improve."»
+<p>💡 "I don't just want to use technology — I want to understand how it works, build with it, and continuously improve."»
 
 Hi! I'm Mohammad Ajmal, a passionate Developer, AI Builder, Python Developer, and DevOps enthusiast.
 
 I'm interested in understanding how modern software systems work — from writing code and designing applications to deploying them on real infrastructure.
 
-I enjoy learning new technologies, experimenting with ideas, solving technical problems, and turning concepts into working solutions.
+I enjoy learning new technologies, experimenting with ideas, solving technical problems, and turning concepts into working solutions.</p>
 
 🧠 My Mindset
 
