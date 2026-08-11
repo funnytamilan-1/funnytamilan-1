@@ -233,7 +233,7 @@ Scalable Systems
 
 🐍 Contribution Activity
 
-<div align="center"><img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/></div>---
+<div align="center"><img src="https://raw.githubusercontent.com/YOUR_USERNAME/funnytamilan-1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/></div>---
 
 💭 My Developer Philosophy
 
@@ -278,13 +278,13 @@ Building Bigger Things 🚀
 
 <div align="center">💬 Telegram
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+<a href="https://t.me/funnytamilan">
 <img src="https://img.shields.io/badge/Telegram-Contact%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a><br><br>
 
 💻 GitHub
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/funnytamilan-1">
 <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></div>---
 
