@@ -1,16 +1,18 @@
 <div align="center">👋 Hi, I'm Mohammad Ajmal
 
-🚀 Developer • 🤖 AI Builder • 🐍 Python Developer • ☁️ DevOps Enthusiast
+🚀 𝗗ᴇᴠᴇʟᴏᴩᴇʀ • 🤖𝗔𝗜|𝗠𝗟 𝗟ᴇʀɴɪɴɢ • 🐍 𝗣ʏᴛʜᴏɴ 𝗗ᴇᴠᴇʟᴏᴩᴇʀ • ☁️ 𝗗ᴇᴠᴏᴩꜱ 𝗘ɴᴛʜᴜꜱɪᴀꜱᴛ
 
-<br><img src="https://komarev.com/ghpvc/?username=funnytamilan-1&label=PROFILE%20VIEWS&color=7A5CFA&style=for-the-badge" alt="Profile Views"/><br><br>
+<br><img src="https://komarev.com/ghpvc/?username=funnytamilan-1&label=PROFILE%20VIEWS&color=7A5CFA&style=for-the-badge" alt="Profile Views"><br><br>
 
-<img src="https://github.com/funnytamilan-1.png" width="160" height="160" style="border-radius:50%;" alt="Mohammad Ajmal"/><br><br>
+<img src="https://github.com/funnytamilan-1.png" width="160" height="160" alt="Mohammad Ajmal"><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7A5CFA&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Python+%7C+AI+%7C+DevOps+%7C+Cloud;Turning+Ideas+Into+Real+Systems+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing SVG"/><br><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient" width="100%"/></div>---
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7A5CFA&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Python+%7C+AI+%7C+DevOps+%7C+Cloud;Turning+Ideas+Into+Real+Systems+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing SVG"><br><br>
 
-🧑‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient" width="100%" alt="Header"></div>---
 
-«"I don't just want to use technology — I want to understand how it works, build with it, and continuously improve." 🚀»
+🧑‍💻 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+
+💡 "I don't just want to use technology — I want to understand how it works, build with it, and continuously improve."»
 
 Hi! I'm Mohammad Ajmal, a passionate Developer, AI Builder, Python Developer, and DevOps enthusiast.
 
@@ -105,27 +107,19 @@ class Ajmal:
 
 💻 Programming Languages
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,js,html,css,bash" /></p>---
+<div align="center"><img src="https://skillicons.dev/icons?i=python,js,html,css,bash" alt="Programming Languages"></div><br>⚡ Backend & Frameworks
 
-⚡ Backend & Frameworks
+<div align="center"><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" alt="Backend Frameworks"></div><br>☁️ DevOps & Infrastructure
 
-<p align="center"><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" /></p>---
+<div align="center"><img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,bash" alt="DevOps Technologies"></div><br>🗄️ Databases
 
-☁️ DevOps & Infrastructure
+<div align="center"><img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb" alt="Databases"></div><br>🔧 Development Tools
 
-<p align="center"><img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,bash" /></p>---
-
-🗄️ Databases
-
-<p align="center"><img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb" /></p>---
-
-🔧 Development Tools
-
-<p align="center"><img src="https://skillicons.dev/icons?i=vscode,postman,git,github" /></p>---
+<div align="center"><img src="https://skillicons.dev/icons?i=vscode,postman,git,github" alt="Development Tools"></div>---
 
 🤖 AI & Automation
 
-«Exploring the intersection of software engineering, artificial intelligence, and automation.»
+«🧠 Exploring the intersection of software engineering, artificial intelligence, and automation.»
 
                     🤖 Artificial Intelligence
                               │
@@ -134,39 +128,22 @@ class Ajmal:
           ▼                   ▼                   ▼
      🧠 LLM Apps         🤖 AI Agents       ⚙️ Automation
           │                   │                   │
-          ├───────────────┬───┴───────────────┐   │
-          │               │                   │   │
-          ▼               ▼                   ▼   ▼
-      👨‍💻 Dev Tools    🛠️ AI Tools       🔌 APIs  🔄 Workflows
+          └───────────────┬───┴───────────────────┘
+                          │
+             ┌────────────┼────────────┐
+             ▼            ▼            ▼
+        👨‍💻 Dev Tools  🛠️ AI Tools  🔌 Intelligent APIs
+                          │
+                          ▼
+                    🔄 Workflows
 
----
-
-📂 Projects
-
-«🚧 My projects are developed around AI, automation, backend systems, DevOps, and media technologies.»
-
-🤖 Kinva Master Pro AI
-
-Advanced Telegram-based media processing and automation platform.
-
-✨ Features
-
-- 🎬 Video processing
-- 🖼️ Image processing
-- 🤖 Telegram automation
-- ⚡ Background processing
-- 👑 Premium user system
-- 🗄️ SQLite database
-- 🎨 Media filters & effects
-- 🐳 Docker deployment
-- 🔐 User management
-- 🌐 Web application integration
+--------------------
 
 🧰 Tech Stack
 
 Python • Telegram API • FFmpeg • SQLite • Flask • FastAPI • Docker
 
----
+-----------------------
 
 🧠 AI Developer Command Center
 
@@ -279,13 +256,13 @@ Status: 🚧 Building
 
 📊 GitHub Statistics
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=funnytamilan-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnytamilan-1&layout=compact&theme=tokyonight&hide_border=true" width="41%" alt="Top Languages"/><br><br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=funnytamilan-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnytamilan-1&layout=compact&theme=tokyonight&hide_border=true" width="41%" alt="Top Languages"><br><br>
 
-<img src="https://streak-stats.demolab.com?user=funnytamilan-1&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/></div>---
+<img src="https://streak-stats.demolab.com?user=funnytamilan-1&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"></div>---
 
 🐍 Contribution Activity
 
-<div align="center"><img src="https://raw.githubusercontent.com/funnytamilan-1/funnytamilan-1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/></div>---
+<div align="center"><img src="https://raw.githubusercontent.com/funnytamilan-1/funnytamilan-1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"></div>---
 
 💭 My Developer Philosophy
 
@@ -330,16 +307,17 @@ Improve it.»
 
 <div align="center">💬 Telegram
 
-<a href="https://t.me/funnytamilan"><img src="https://img.shields.io/badge/Telegram-Contact%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a><br><br>
+<a href="https://t.me/funnytamilan"><img src="https://img.shields.io/badge/Telegram-Contact%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a><br><br>
 
 💻 GitHub
 
-<a href="https://github.com/funnytamilan-1"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></div>---
+<a href="https://github.com/funnytamilan-1"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></div>---
 
 <div align="center">⚡ Learn • Build • Deploy • Repeat
 
 🚀 Thanks for visiting my GitHub profile!
 
-<br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7A5CFA&center=true&vCenter=true&width=700&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Improving+%F0%9F%94%A5;Never+Stop+Creating+%F0%9F%A4%96" alt="Footer Typing Animation"/><br><br>
+<br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7A5CFA&center=true&vCenter=true&width=700&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Improving+%F0%9F%94%A5;Never+Stop+Creating+%F0%9F%A4%96" alt="Footer Typing Animation"><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" width="100%" alt="Footer"></div>                  
+            
