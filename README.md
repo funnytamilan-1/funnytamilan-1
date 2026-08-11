@@ -1,6 +1,12 @@
 
 
-<div align="center"><p>👋𝗛ᴇʏ, 𝗜ᴍ 𝗠ᴏʜᴀᴍᴍᴇᴅ 𝗔ᴊᴀᴍʟ</p>
+<div align="center"><div align="center">
+
+<img src="./developer.svg"
+     width="500"
+     alt="Ajmal Developer">
+
+</div><p>👋𝗛ᴇʏ, 𝗜ᴍ 𝗠ᴏʜᴀᴍᴍᴇᴅ 𝗔ᴊᴀᴍʟ</p>
 
 
 🚀 𝗗ᴇᴠᴇʟᴏᴩᴇʀ • 🤖𝗔𝗜|𝗠𝗟 𝗟ᴇʀɴɪɴɢ • 🐍 𝗣ʏᴛʜᴏɴ 𝗗ᴇᴠᴇʟᴏᴩᴇʀ • ☁️ 𝗗ᴇᴠᴏᴩꜱ 𝗘ɴᴛʜᴜꜱɪᴀꜱᴛ
