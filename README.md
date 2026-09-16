@@ -288,21 +288,18 @@ Improve it.»
 
 </div>---
 
-📈 My Journey
-
-📚 Learning
-    │
+<div>
+     📈 My Journey
+     📚 Learning
     ▼
-🧪 Experimenting
-    │
+     🧪 Experimenting
     ▼
-💻 Building
-    │
+     💻 Building
     ▼
-🚀 Deploying
+     🚀 Deploying
     │
-    ▼
-🧩 Problem Solving
+    
+     🧩 Problem Solving
     │
     ▼
 📈 Growing
@@ -311,8 +308,9 @@ Improve it.»
 🔥 Building Bigger Things
 
 ---
+</div>
 
-🌐 Connect With Me
+<h1>🌐 Connect With Me</h1>
 
 <div align="center">💬 Telegram
 
