@@ -1,4 +1,4 @@
-<div align="center"><img src="./developer.svg" width="500" alt="Ajmal Developer"><p>👋𝗛ᴇʏ, 𝗜'ᴍ 𝗠ᴏʜᴀᴍᴍᴇᴅ 𝗔ᴊᴍᴀʟ</p><p>
+<div align="center"><img src="/developer.svg" width="500" alt="Ajmal Developer"><p>👋𝗛ᴇʏ, 𝗜'ᴍ 𝗠ᴏʜᴀᴍᴍᴇᴅ 𝗔ᴊᴍᴀʟ</p><p>
 🚀 𝗗ᴇᴠᴇʟᴏᴘᴇʀ • 🤖 𝗔𝗜/𝗠𝗟 𝗟ᴇᴀʀɴᴇʀ • 🐍 𝗣ʏᴛʜᴏɴ 𝗗ᴇᴠᴇʟᴏᴘᴇʀ • ☁️ 𝗗ᴇᴠᴏᴘꜱ 𝗘ɴᴛʜᴜꜱɪᴀꜱᴛ
 </p><br><img src="https://komarev.com/ghpvc/?username=funnytamilan-1&label=PROFILE%20VIEWS&color=7A5CFA&style=for-the-badge" alt="Profile Views"><br><br>
 
